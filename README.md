@@ -1,3 +1,10 @@
+YA NO SE QUE HACER PARA QUE SE ATUALICE EL LINK
+PORFAVOR REVISAR EL CODIGO E IMAGENES, ESTAN CORRECTAS
+
+
+
+
+
 
         <title>De la letra a la imagen</title>
         <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital@0;1&display=swap" rel="stylesheet" />
